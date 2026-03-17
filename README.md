@@ -1,5 +1,3 @@
-### Harshit Gupta
-
 #### *A Backend focused Full Stack Developer.*
 
 "Engineer first, Developer second."
